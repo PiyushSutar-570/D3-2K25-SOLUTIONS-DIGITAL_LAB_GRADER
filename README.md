@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 # Digital-TA
 =======
-# D3-2K25-SOLUTIONS-DIGITAL_LAB_GRADER
+#AUTOMATED-DIGITAL_LAB_GRADER
 >>>>>>> ae7e69b3c4eef7d58b6baf6028e6f7ba9328bb2c
